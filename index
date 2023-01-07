@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+    <img src="https://kartinkin.net/uploads/posts/2022-02/1645092668_2-kartinkin-net-p-ucheba-kartinki-2.jpg" width="200" />
+        <h1>Иванкин Дмитрий Владимирович</h1>
+        <p><em>Студент колледжа электроники</em></p>
+        <p>группа зкс-309</p>
+
+        <hr size="10" color="black">
+
+        <h2> Колледж Электроники </h2>
+        <ul>
+        <li><a href="https://ркэ.рф">Сайт колледжа</a></li></ul>
+        <ol>
+        <li>Разработка и администрирование WEB-сайта</li></ol>         
+    </body>
+</html>
